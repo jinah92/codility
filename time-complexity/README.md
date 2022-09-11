@@ -1,4 +1,7 @@
 <h1> Frog Jump </h1>
+
+[Link](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
+
 <h2>parameters</h2>
 
 - X : current location (integer)
@@ -12,6 +15,9 @@
 &nbsp;
 
 <h1>Perm Missing Elem</h1>
+
+[Link](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
+
 <h2>parameters</h2>
 
 - A : array consisting of N different integers
@@ -23,6 +29,9 @@
 &nbsp;
 
 <h1>Tape Equilibrium</h1>
+
+[Link](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/)
+
 <h2>parameters</h2>
 
 - A : array consisting of N integers (non Empty)
